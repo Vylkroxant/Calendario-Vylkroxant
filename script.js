@@ -139,7 +139,6 @@ modalOverlay?.addEventListener('click', (e) => {
     if (e.target === modalOverlay) toggleModal();
 });
 
-   /*🛡️*/
 document.addEventListener('contextmenu', (e) => {
     e.preventDefault();
     showSecurityAlert();

@@ -44,7 +44,7 @@ input, select { width: 100%; padding: 10px; background: #000; border: 1px solid 
 .v-footer__instructions li {margin-bottom: 5px;padding-left: 15px;position: relative;}
 .v-footer__instructions li::before {content: "•";color: #ff4444;position: absolute;left: 0;}
 .v-footer__instructions strong {color: #fff;}
-.v-footer__copyright {text-align: center;font-size: 1rem;color: #666;margin-top: 15px;}
+.v-footer__copyright {text-align: center;font-size: 0.8rem;color: #666;margin-top: 15px;}
 .btn-floating-back { position: fixed; bottom: 30px; right: 30px; width: 65px; height: 65px; background: black; color: white; border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; text-decoration: none; z-index: 9999; transition: all 0.3s ease; border: 2px solid white; cursor: pointer; animation: floatVertical 3s ease-in-out infinite; }
 .btn-floating-back svg { width: 24px; height: 24px; margin-bottom: 2px; }
 .btn-floating-back span { font-size: 0.55rem; font-weight: 900; letter-spacing: 0.5px; }
